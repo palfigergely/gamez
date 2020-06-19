@@ -1,2 +1,3 @@
 # gamez
-* readme
+* LOGICAL GAME
+* PRIME NUMBERS STUFF
